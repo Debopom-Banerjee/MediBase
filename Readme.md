@@ -4,20 +4,28 @@ Medbase is a web-based Hospital Patient Records Management System developed usin
 
 ## Features
 
-[x] User Authentication: Secure login and registration system for authorized personnel.
+- User Authentication: Secure login and registration system for authorized personnel.
 
-[x] Patient Records Management: Efficiently store and manage patient information, including personal details, medical history, diagnoses, treatments, and prescriptions.
+- Patient Records Management: Efficiently store and manage patient information, including personal details, medical history, diagnoses, treatments, and prescriptions.
 
-[x] Appointment Scheduling: A calendar-based system to schedule and manage patient appointments.
+- Appointment Scheduling: A calendar-based system to schedule and manage patient appointments.
 
-[x] Medical Staff Management: Maintain records of medical staff, including doctors, nurses, and administrative personnel, with their respective roles and permissions.
+- Medical Staff Management: Maintain records of medical staff, including doctors, nurses, and administrative personnel, with their respective roles and permissions.
 
-[x] Billing and Invoicing: Generate bills and invoices for patients based on the provided medical services.
+- Billing and Invoicing: Generate bills and invoices for patients based on the provided medical services.
 
-[x] Search and Filter: Powerful search and filtering options to quickly retrieve patient records and other relevant information.
+- Search and Filter: Powerful search and filtering options to quickly retrieve patient records and other relevant information.
 
-[x] Reports and Analytics: Generate reports and insights on patient statistics, appointments, and financials.
+- Reports and Analytics: Generate reports and insights on patient statistics, appointments, and financials.
 
-[x] Data Security: Implement robust security measures to protect patient data and comply with privacy regulations.
+- Data Security: Implement robust security measures to protect patient data and comply with privacy regulations.
 
 ## Here are some of the working UI :
+
+![image](https://github.com/Debopom-Banerjee/MediBase/assets/94488557/d987f507-3c2d-4530-aabb-452ffcfd430f)
+
+![image](https://github.com/Debopom-Banerjee/MediBase/assets/94488557/f3a4568d-b95e-4e59-831c-e9d58d28c813)
+
+![image](https://github.com/Debopom-Banerjee/MediBase/assets/94488557/34c6f1f6-b4d3-4e07-9612-ba98bf29048f)
+
+
